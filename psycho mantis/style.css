@@ -1,0 +1,14 @@
+html {
+  background-color: gray;
+}
+
+body{
+  text-align: center;
+}
+#myCanvas{
+  background-color: black;
+  width: 800px;
+  height: 600px; 
+  border: 1px solid white;
+  margin: 0 auto;
+}
